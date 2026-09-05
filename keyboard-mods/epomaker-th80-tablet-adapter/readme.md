@@ -1,8 +1,23 @@
-Can't find the OG design, please help me give the right credits - the OG KB tablet adapter worked for some other mechanical KB, but did not fit my Epomaker TH80. I changed the part the locks onto the KB back, now it works.
+# Epomaker TH80 Tablet Adapter
 
-Print two of the same.
+A custom-fit tablet stand that locks securely onto the back bezel of the Epomaker TH80 mechanical keyboard.
 
-they interlock into each other to keep them together for transport off the keep.
+## Overview
+Designed to hold a tablet securely above the keyboard, this model prints as two identical interlocking pieces that snap together for compact transport.
 
-PLA or PETG, 15%to 25% infill to keep it sturdy.
+## Print Parameters & Settings
+* **Material:** PLA or PETG
+* **Infill:** 15% to 25%
+* **Perimeters:** 3+ wall loops for structural rigidity
+* **Supports:** None required
 
+## Links & Distribution[
+* [Epomaker TH80 tablet adapter by Entius | Printables.com](https://www.printables.com/model/1833407-epomaker-th80-tablet-adapter)
+* [Epomaker TH80 tablet adapter by Entius - Thingiverse](https://www.thingiverse.com/thing:7405221)
+## Licensing
+Licensed under the **Creative Commons Attribution-NonCommercial (CC BY-NC)** license.
+
+## Remix Attribution & Acknowledgments
+* **Original Design:** Based on the mechanical keyboard tablet stand by [Original Author Name — link to original model].
+* **Modifications:** Redesigned the rear mounting clamp and bezel-locking geometry to fit the specific housing dimensions of the Epomaker TH80.
+* **Notes:** Built as a dual-part print that interlocks back-to-back for compact transport.
